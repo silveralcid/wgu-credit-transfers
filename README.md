@@ -1,1 +1,1 @@
-# wgu-transfer-equivalency
+# wgu-credit-transfers

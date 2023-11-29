@@ -1,0 +1,36 @@
+h1 {
+    font-size: 21px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+h4 {
+    font-size: 12px;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    text-align: center;
+  }
+
+/* Link Buttons */
+a:link, a:visited, a:hover, a:active { 
+    background-color:lightpink; 
+    color: black;
+
+    padding: 10px 25px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    border-style: solid;
+    border-color: white;
+    border-radius: 50px;
+    transition: .25s
+}
+
+a:hover {
+    background-color:lightcyan; 
+}
